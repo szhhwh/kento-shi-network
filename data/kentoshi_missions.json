@@ -1,0 +1,455 @@
+[
+  {
+    "id": "M01",
+    "year_depart": 630,
+    "year_return": 632,
+    "japanese_era": "舒明2→舒明4",
+    "chinese_era": "貞觀4→貞觀6",
+    "ambassador": "犬上御田鍬",
+    "vice_ambassador": "",
+    "other_key_personnel": [
+      "藥師惠日"
+    ],
+    "ships": "不明",
+    "people_count": "不明",
+    "route": "北路（朝鮮半島西岸沿い）",
+    "outcome": "入唐成功。唐使高表仁同行來日。",
+    "sources": [
+      "日本書紀",
+      "旧唐書倭国日本伝"
+    ],
+    "note": "第一次遣唐使。此前630年已有遣隋使经验。"
+  },
+  {
+    "id": "M02",
+    "year_depart": 653,
+    "year_return": 654,
+    "japanese_era": "白雉4→白雉5",
+    "chinese_era": "永徽4→永徽5",
+    "ambassador": "吉士長丹",
+    "vice_ambassador": "吉士駒",
+    "other_key_personnel": [
+      "道严",
+      "道通",
+      "道光",
+      "惠施",
+      "觉胜",
+      "弁正",
+      "惠照",
+      "忍",
+      "知聪",
+      "道昭",
+      "定惠",
+      "安达",
+      "道观",
+      "知弁",
+      "惠德",
+      "义德",
+      "惠妙",
+      "智园",
+      "智宗",
+      "义通",
+      "妙位",
+      "法胜"
+    ],
+    "ships": "1隻(另1隻遭難)",
+    "people_count": "121人",
+    "route": "北路",
+    "outcome": "入唐成功。另一船（高田根麻呂）在薩摩竹島附近遭難。",
+    "sources": [
+      "日本書紀"
+    ],
+    "note": "分兩路：吉士長丹成功，高田根麻呂船115人遇難。 道昭入唐后师从玄奘，成为法相宗传入日本第一人。"
+  },
+  {
+    "id": "M03",
+    "year_depart": 654,
+    "year_return": 655,
+    "japanese_era": "白雉5",
+    "chinese_era": "永徽5→永徽6",
+    "ambassador": "河邊麻呂",
+    "vice_ambassador": "藥師惠日",
+    "other_key_personnel": [
+      "高向玄理（押使）"
+    ],
+    "ships": "2隻",
+    "people_count": "不明",
+    "route": "北路",
+    "outcome": "入唐成功。押使高向玄理病死於唐。",
+    "sources": [
+      "日本書紀",
+      "旧唐書"
+    ],
+    "note": "高向玄理原為遣隋留學生，此次以押使身份入唐，客死異鄉。 百度百科记大使为「河边麻吕」（又作阿边麻吕）。高向玄理654年病故于长安。"
+  },
+  {
+    "id": "M04",
+    "year_depart": 659,
+    "year_return": 661,
+    "japanese_era": "斉明5→斉明7",
+    "chinese_era": "顕慶4→龍朔1",
+    "ambassador": "坂合部石布",
+    "vice_ambassador": "津守吉祥",
+    "other_key_personnel": [
+      "伊吉博德"
+    ],
+    "ships": "2隻",
+    "people_count": "不明",
+    "route": "北路→南路漂着",
+    "outcome": "第一船漂着南海島嶼，大使坂合部石布被殺。副使津守吉祥船至洛陽。",
+    "sources": [
+      "日本書紀",
+      "伊吉博德書"
+    ],
+    "note": "部分學者不計入正式完成。伊吉博德留下詳細記錄《伊吉博德書》。"
+  },
+  {
+    "id": "M05",
+    "year_depart": 665,
+    "year_return": 667,
+    "japanese_era": "天智4→天智6",
+    "chinese_era": "麟德2→乾封2",
+    "ambassador": "守大石（送唐客使）",
+    "vice_ambassador": "坂合部石積",
+    "other_key_personnel": [
+      "吉士岐弥",
+      "吉士針間"
+    ],
+    "ships": "不明",
+    "people_count": "不明",
+    "route": "北路",
+    "outcome": "送唐使劉德高歸國。",
+    "sources": [
+      "日本書紀"
+    ],
+    "note": "送唐客使性質，非正式遣唐使。"
+  },
+  {
+    "id": "M06",
+    "year_depart": 667,
+    "year_return": 668,
+    "japanese_era": "天智6→天智7",
+    "chinese_era": "乾封2→総章1",
+    "ambassador": "伊吉博德（送唐客使）",
+    "vice_ambassador": "笠諸石",
+    "other_key_personnel": [],
+    "ships": "不明",
+    "people_count": "不明",
+    "route": "至百濟",
+    "outcome": "送唐使至百濟，未必入唐本土。",
+    "sources": [
+      "日本書紀"
+    ],
+    "note": "因百濟局勢，是否實際入唐存疑。"
+  },
+  {
+    "id": "M07",
+    "year_depart": 669,
+    "year_return": "不明",
+    "japanese_era": "天智8",
+    "chinese_era": "総章2",
+    "ambassador": "河内鯨",
+    "vice_ambassador": "",
+    "other_key_personnel": [],
+    "ships": "不明",
+    "people_count": "不明",
+    "route": "不明",
+    "outcome": "派遣記錄不明。",
+    "sources": [
+      "日本書紀"
+    ],
+    "note": "記錄極少，情況不詳。"
+  },
+  {
+    "id": "M08",
+    "year_depart": 702,
+    "year_return": "704～718",
+    "japanese_era": "大宝2→慶雲1～養老2",
+    "chinese_era": "長安2→長安4～開元6",
+    "ambassador": "粟田真人（執節使）",
+    "vice_ambassador": "坂合部大分",
+    "other_key_personnel": [
+      "高橋笠間（大使）",
+      "巨勢邑治（副使）",
+      "山上憶良（少録）"
+    ],
+    "ships": "4隻",
+    "people_count": "不明",
+    "route": "南路（南島路）",
+    "outcome": "入唐成功。首次使用「日本」國號。粟田真人見武則天。巨勢邑治留唐至707年。",
+    "sources": [
+      "続日本紀",
+      "旧唐書",
+      "新唐書"
+    ],
+    "note": "盛期遣唐使開端。船數增至4艘。粟田真人被唐評為「好讀經史，容止溫雅」。"
+  },
+  {
+    "id": "M08b",
+    "year_depart": 706,
+    "year_return": "不明",
+    "japanese_era": "慶雲3",
+    "chinese_era": "神龍2",
+    "ambassador": "不明",
+    "vice_ambassador": "",
+    "other_key_personnel": [],
+    "ships": "不明",
+    "people_count": "不明",
+    "route": "不明",
+    "outcome": "《册府元龟·朝贡三》载「神龙二年二月日本国遣使来朝」。唐中宗于洛阳接见。",
+    "sources": [
+      "册府元龟·朝贡三"
+    ],
+    "note": "仅见中国史书记录，日本正史无载，学界存疑。可能是非正式使节或留学生归国被误记为朝贡。"
+  },
+  {
+    "id": "M09",
+    "year_depart": 717,
+    "year_return": 718,
+    "japanese_era": "養老1→養老2",
+    "chinese_era": "開元5→開元6",
+    "ambassador": "多治比縣守（押使）",
+    "vice_ambassador": "大伴山守（大使）、藤原馬養（副使）",
+    "other_key_personnel": [
+      "阿倍仲麻呂（留学生）",
+      "吉備真備（留学生）",
+      "玄昉（学問僧）",
+      "大和長岡（留学生）"
+    ],
+    "ships": "4隻",
+    "people_count": "557人",
+    "route": "南路（南島路）",
+    "outcome": "入唐成功。多名關鍵人物入唐留學。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "人才濟濟的一批。阿倍仲麻呂終生仕唐，吉備真備留學17年。"
+  },
+  {
+    "id": "M10",
+    "year_depart": 733,
+    "year_return": "734～739",
+    "japanese_era": "天平5→天平6～11",
+    "chinese_era": "開元21→開元22～27",
+    "ambassador": "多治比廣成",
+    "vice_ambassador": "中臣名代",
+    "other_key_personnel": [
+      "平群廣成（判官）",
+      "秦朝元（判官）",
+      "井真成（准判官）"
+    ],
+    "ships": "4隻",
+    "people_count": "594人",
+    "route": "南路",
+    "outcome": "入唐成功。第三、四船漂着崑崙（越南），多治比廣成等4人倖存。吉備真備、玄昉等歸國。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "吉備真備攜《唐礼》《大衍暦》等歸國。第三四船遭難。 准判官井真成734年病逝长安，唐玄宗追封尚衣丰御。2004年西北大学出土其墓志——最古老的「日本」国号实物证据。"
+  },
+  {
+    "id": "M11",
+    "year_depart": 746,
+    "year_return": "—",
+    "japanese_era": "天平18（任命）",
+    "chinese_era": "天宝5",
+    "ambassador": "石上乙麻呂",
+    "vice_ambassador": "",
+    "other_key_personnel": [],
+    "ships": "—",
+    "people_count": "—",
+    "route": "—",
+    "outcome": "任命後停止。因李林甫專權，唐朝局勢不穩。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "未出發。"
+  },
+  {
+    "id": "M12",
+    "year_depart": 752,
+    "year_return": "753～754",
+    "japanese_era": "天平勝宝4→天平勝宝5～6",
+    "chinese_era": "天宝11→天宝12～13",
+    "ambassador": "藤原清河",
+    "vice_ambassador": "大伴古麻呂、吉備真備",
+    "other_key_personnel": [
+      "阿倍仲麻呂（在唐同行）",
+      "鑑真（隨行來日）"
+    ],
+    "ships": "4隻",
+    "people_count": "不明",
+    "route": "南路",
+    "outcome": "入唐成功。大伴古麻呂在唐朝賀爭取席位。鑑真隨行來日。藤原清河、阿倍仲麻呂歸途遭遇海難，終生留唐。",
+    "sources": [
+      "続日本紀",
+      "唐大和上東征伝",
+      "善鄰國寶記"
+    ],
+    "note": "遣唐使高峰。新羅席次之爭：大伴古麻呂抗議日本位列新羅之下，成功爭取上位。鑑真第六次渡海成功。 唐朝授予：藤原清河「特进」、大伴古麻吕「银青光禄大夫卫尉卿」。"
+  },
+  {
+    "id": "M13",
+    "year_depart": 759,
+    "year_return": 761,
+    "japanese_era": "天平宝字3→天平宝字5",
+    "chinese_era": "乾元2→上元2",
+    "ambassador": "高元度（迎入唐大使）",
+    "vice_ambassador": "",
+    "other_key_personnel": [],
+    "ships": "1隻",
+    "people_count": "99人",
+    "route": "渤海路",
+    "outcome": "迎藤原清河歸國未果。因安史之亂，高元度等11人由長安經唐使護送至渤海歸國。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "迎入唐大使性質。因安史之亂未能完成使命，清河已仕唐。"
+  },
+  {
+    "id": "M14",
+    "year_depart": 761,
+    "year_return": "—",
+    "japanese_era": "天平宝字5（任命）",
+    "chinese_era": "上元2",
+    "ambassador": "仲石伴",
+    "vice_ambassador": "石上宅嗣",
+    "other_key_personnel": [],
+    "ships": "—",
+    "people_count": "—",
+    "route": "—",
+    "outcome": "因船破損及安史之亂未出發。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "未出發。"
+  },
+  {
+    "id": "M15",
+    "year_depart": 762,
+    "year_return": "—",
+    "japanese_era": "天平宝字6（任命）",
+    "chinese_era": "宝応1",
+    "ambassador": "中臣鷹主",
+    "vice_ambassador": "高麗廣山",
+    "other_key_personnel": [],
+    "ships": "—",
+    "people_count": "—",
+    "route": "—",
+    "outcome": "因風浪及安史之亂未出發。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "未出發。"
+  },
+  {
+    "id": "M16",
+    "year_depart": 777,
+    "year_return": 778,
+    "japanese_era": "宝龜8→宝龜9",
+    "chinese_era": "大暦12→大暦13",
+    "ambassador": "佐伯今毛人（因病未行）",
+    "vice_ambassador": "小野石根（代行大使）、大神末足",
+    "other_key_personnel": [
+      "藤原鷹取（副使）",
+      "大伴益立（副使）"
+    ],
+    "ships": "4隻",
+    "people_count": "不明",
+    "route": "南路",
+    "outcome": "入唐成功。歸途第一船遭難，小野石根、唐使趙寶英等溺死。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "歸途中遭海難，人員大量死亡。唐使孫興進隨行來日。"
+  },
+  {
+    "id": "M17",
+    "year_depart": 779,
+    "year_return": 781,
+    "japanese_era": "宝龜10→天応1",
+    "chinese_era": "大暦14→建中2",
+    "ambassador": "布勢清直（送唐客使）",
+    "vice_ambassador": "",
+    "other_key_personnel": [],
+    "ships": "不明",
+    "people_count": "不明",
+    "route": "南路",
+    "outcome": "送唐使孫興進歸國。",
+    "sources": [
+      "続日本紀"
+    ],
+    "note": "送唐客使性質。"
+  },
+  {
+    "id": "M18",
+    "year_depart": 804,
+    "year_return": "805～806",
+    "japanese_era": "延暦23→延暦24～大同1",
+    "chinese_era": "貞元20→永貞1～元和1",
+    "ambassador": "藤原葛野麻呂",
+    "vice_ambassador": "石川道益",
+    "other_key_personnel": [
+      "空海（留学僧）",
+      "最澄（留学僧）",
+      "橘逸勢（留学生）",
+      "義真（留学僧）",
+      "霊仙（留学僧）"
+    ],
+    "ships": "4隻",
+    "people_count": "不明",
+    "route": "南路",
+    "outcome": "入唐成功。第三船遭難。最澄在台州天台山學法，空海在長安青龍寺師從惠果。805年空海歸國。806年最澄歸國。",
+    "sources": [
+      "日本後紀",
+      "空海請來目録",
+      "入唐求法巡礼行記"
+    ],
+    "note": "最澄、空海入唐，分別開創日本天台宗和真言宗。第三船在松浦郡庇良島沖遭難。"
+  },
+  {
+    "id": "M19",
+    "year_depart": 838,
+    "year_return": "839～840",
+    "japanese_era": "承和5→承和6～7",
+    "chinese_era": "開成3→開成4～5",
+    "ambassador": "藤原常嗣",
+    "vice_ambassador": "小野篁（稱病未行）",
+    "other_key_personnel": [
+      "円仁（請益僧）",
+      "円載（留学僧）",
+      "常暁（留学僧）",
+      "恵運（留学僧）",
+      "円行（留学僧）"
+    ],
+    "ships": "4隻",
+    "people_count": "651人（計劃）",
+    "route": "南路",
+    "outcome": "入唐成功。最後一次實際入唐的遣唐使。円仁在唐9年7個月，留下《入唐求法巡礼行記》。",
+    "sources": [
+      "続日本後紀",
+      "入唐求法巡礼行記",
+      "入唐五家伝"
+    ],
+    "note": "最後の遣唐使。円仁日記是迄今最詳細的遣唐使時代記錄。小野篁與藤原常嗣不和，稱病拒絕出航。 另：874年（貞観16年）朝廷派大神己井、多治安江等赴唐購買香藥，《日本三代実録》有載。部分學者認為可算作遣唐使餘緒，但非正式任命。"
+  },
+  {
+    "id": "M20",
+    "year_depart": 894,
+    "year_return": "—",
+    "japanese_era": "寛平6（任命）",
+    "chinese_era": "乾寧1",
+    "ambassador": "菅原道真",
+    "vice_ambassador": "紀長谷雄",
+    "other_key_personnel": [],
+    "ships": "—",
+    "people_count": "—",
+    "route": "—",
+    "outcome": "菅原道真上《請令諸公卿議定遣唐使進止狀》，建議停止。遣唐使制度正式廢止。",
+    "sources": [
+      "日本三代実録",
+      "菅家文草"
+    ],
+    "note": "因唐朝衰敗（入唐僧中瓘報告「大唐凋敝」）及航海危險，正式廢止。此後中日交流轉為民間貿易。"
+  }
+]
